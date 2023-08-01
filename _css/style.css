@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+body{
+    background: url("background.png");
+}
+/* MENU */
+
+div.menu {
+    display: inline-block;
+    margin-left: 597px;
+    margin-right: auto;
+}
+.homeb {
+    top: 19px;
+    left: 776px;
+    width: auto;
+    height: auto;
+}
+.arteb {
+    top: 19px;
+    left: 912px;
+    width: auto;
+    height: auto;
+}
+.contatob {
+    top: 19px;
+    left: 1048px;
+    width: auto;
+    height: auto;
+}
+
+/*LINK MENU*/
+
+div.linkmenu{
+    display: inline-block;
+    margin-left: 350px;
+    margin-right: auto;
+}
+
+
+.linkdinb {
+    top: 17px;
+    left: 1700px;
+    width: auto;
+    height: auto;
+}
+.githubb{
+    top: 9px;
+    left: 1758px;
+    width: auto;
+    height: auto;
+}
+.behanceb {
+    top: 17px;
+    left: 1834px;
+    width: auto;
+    height: auto;
+}
+
+/* LAYOUT MID */
+
+div.layoutmid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+}
+
+/* artefeitas */
+
+div.meustrabalhos{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+}
+
+div.artesfeitas1{
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+}
+
+div.artesfeitas2{
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+/* contato */
+
+div.contatolayout{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+}
